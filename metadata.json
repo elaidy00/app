@@ -1,0 +1,8 @@
+{
+  "name": "EduStream Pro - Professional Learning Platform",
+  "description": "A high-performance, mobile-first educational platform with course management, video streaming, interactive quizzes, and AI-powered tutoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
